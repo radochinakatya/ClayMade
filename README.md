@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c4c79a19-7e4e-4f6c-ba67-9b99164b64b4)# 🛒 My Online Store
+# 🛒 My Online Store
 
 ![React](https://img.shields.io/badge/React-v18.2.0-blue) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow) 
@@ -32,15 +32,15 @@
 ## Скриншоты самого сайта
 
 - **Главная страница**
-  ![Главная](![image](https://github.com/user-attachments/assets/cc79315c-0177-4fa3-b1c8-5aea8c35d3ef))
+  ![Главная](https://github.com/user-attachments/assets/cc79315c-0177-4fa3-b1c8-5aea8c35d3ef)
 
 - **Каталог**
-  ![Каталог](![image](https://github.com/user-attachments/assets/9ab77860-8b98-47b8-98c1-9fba4c4cbbcf))
+  ![Каталог](https://github.com/user-attachments/assets/9ab77860-8b98-47b8-98c1-9fba4c4cbbcf)
 
 - **Попап товара**
-  ![Попап товара](![image](https://github.com/user-attachments/assets/15612bc6-ae16-4bab-a3c3-2b2937324641))
+  ![Попап товара](https://github.com/user-attachments/assets/15612bc6-ae16-4bab-a3c3-2b2937324641)
 
 - **Вход**
-  ![Вход](![image](https://github.com/user-attachments/assets/e6b23038-b0dc-4cdf-9d69-9d194acac9c0))
+  ![Вход](https://github.com/user-attachments/assets/e6b23038-b0dc-4cdf-9d69-9d194acac9c0)
 
 
