@@ -1,70 +1,30 @@
-# Getting Started with Create React App
+# 🛒 My Online Store
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![React](https://img.shields.io/badge/React-v18.2.0-blue) 
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow) 
+![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)
 
-## Available Scripts
+## 🌟 Описание проекта
 
-In the project directory, you can run:
+Добро пожаловать в мой онлайн-магазин - **ClayMade**. Проект разработан с нуля, включая дизайн интерфейса, который был выполнен мной лично. Этот магазин предлагает удобный и интуитивно понятный интерфейс для совершения покупок онлайн, а также современный и привлекательный дизайн.
 
-### `npm start`
+## 🛠️ Технологии
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **React** - Основной JavaScript-фреймворк для создания интерфейса.
+- **JavaScript** - Используется для создания интерактивных элементов.
+- **HTML5** - Базовая разметка страниц.
+- **CSS3** - Оформление и стилизация интерфейса.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🚀 Основные функции
 
-### `npm test`
+- **Простая навигация** - Удобный пользовательский интерфейс с интуитивной навигацией.
+- **Каталог товаров** - Просмотр товаров.
+- **Корзина** - Добавление товаров в корзину и просмотр итоговой суммы. (нуждается в доработке)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🎨 Дизайн
 
-### `npm run build`
+Весь дизайн был разработан с учётом современных тенденций и удобства пользователей. Я постаралась создать интерфейс, который будет не только эстетически приятным, но и легким в использовании. Особое внимание было уделено:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- **Цветовой палитре** - Выбор цветов, которые создают гармоничный и современный вид.
+- **Типографике** - Использование шрифтов, которые обеспечивают удобочитаемость и стиль.
