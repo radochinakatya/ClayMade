@@ -1,0 +1,7 @@
+@import "./reset.css";
+
+* {
+    font-family: Gilroy;
+    text-decoration: none;
+    color: black;
+}
